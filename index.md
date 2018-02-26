@@ -1,8 +1,8 @@
 ---
 title: This is my title
-layout: post
+layout: default
 ---
 
-# Here is my page.
+# [](#header-1)Here is my page.
 
 **Hello World!**
